@@ -30,7 +30,7 @@ proxy-groups:
   - name: 🚀 Node Selection
     type: select
     proxies:
-      - ♻️ Auto
+      - ♻️ Automatic
       - DIRECT
       - '@VlessZone|🇷🇺|RU_1'
       - '@VlessZone|🇷🇺|RU_2'
